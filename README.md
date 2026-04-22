@@ -45,6 +45,6 @@ A small 2D platformer built with **Godot Engine** where the player explores a fo
 
 ## Screenshots
 
-![Screenshot 1](/readme_assets/s1.png)  
+![Screenshot 1](/readme_assets/sc1.png)  
 ![Screenshot 2](/readme_assets/s2.png)  
 ![Screenshot 3](/readme_assets/s3.png)  
