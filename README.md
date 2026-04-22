@@ -7,7 +7,7 @@ A small 2D platformer built with **Godot Engine** where the player explores a fo
  **LINK :** https://ambariz.itch.io/forest-collector  
 ---
 
-## Gameplay
+## Gameplay (See the Screenshots below!)
 
 - Move and jump through a forest-themed level  
 - Avoid falling off platforms  
